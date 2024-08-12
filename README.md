@@ -21,11 +21,9 @@ i'm a developer that loves making websites, applications, and api endpoints usin
 |---------------------|---------------|----------------------------------------|------------------------|
 | <img src="https://skillicons.dev/icons?i=html,js,react,vue,svelte,css,markdown,ts,nodejs,python,express" alt="web dev" height="40"/> | <img src="https://skillicons.dev/icons?i=sublime,vscode" alt="web dev" height="40"/> | <img src="https://skillicons.dev/icons?i=tailwind,npm,git,github,babel,bootstrap,vercel" alt="web dev" height="40"/> | <img src="https://skillicons.dev/icons?i=electron,firebase,php" alt="web dev" height="40"/> |
 
-
-<details>
-  <summary>Github Stats ⚡</summary>
+# `Stats` ⚡
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=linuxfandudeguy&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxfandudeguy&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   <img src="https://komarev.com/ghpvc/?username=linuxfandudeguy&style=for-the-badge&color=orange" alt=""/>
-</details>
+
