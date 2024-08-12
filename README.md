@@ -33,5 +33,7 @@ i'm a developer that loves making websites, applications, and api endpoints usin
 
 
 <!-- Start of CuterCounter Code -->
+<!-- Start of CuterCounter Code -->
 <a href="https://www.cutercounter.com/" target="_blank"><img src="https://www.cutercounter.com/hits.php?id=hexpqqqn&nd=9&style=80" border="0" alt="counter for blog"></a>
+<!-- End of CuterCounter Code -->
 <!-- End of CuterCounter Code -->
