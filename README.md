@@ -17,6 +17,6 @@ i am an american programmer that makes stuff
 
 i HATE electron.
 
-| Technologies I Know |   |   |
+| technologies i know | editors i use  |   |
 |---------------------|---|---|
-|<img src="https://skillicons.dev/icons?i=html,js,react,vue,svelte,css,markdown,ts,nodejs" alt="web dev" height="40"/>  |   |   |
+|<img src="https://skillicons.dev/icons?i=html,js,react,vue,svelte,css,markdown,ts,nodejs" alt="web dev" height="40"/>  |<img src="https://skillicons.dev/icons?i=sublime,vscode" alt="web dev" height="40"/>|   |
