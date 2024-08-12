@@ -10,7 +10,7 @@
                                                               |___/       |___/ 
 ```
 ###### "dont look at my html" – `linuxfandudeguy`
-<img src="https://skillicons.dev/icons?i=html,js,react,vue,svelte,css,markdown,ts,node,tailwind" alt="web dev" height="40"/> 
+<img src="https://skillicons.dev/icons?i=html,js,react,vue,svelte,css,markdown,ts,nodejs,tailwind,py" alt="web dev" height="40"/> 
 
 hi i am linuxfandudeguy/lelbois.
 
