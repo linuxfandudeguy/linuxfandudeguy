@@ -15,7 +15,6 @@ hi i am linuxfandudeguy/lelbois.
 
 i am an american programmer that makes stuff
 
-i HATE electron.
 
 | technologies i know | editors i use  | toolz or stuff i use in my apps alot   |
 |---------------------|---|---|
