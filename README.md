@@ -11,7 +11,7 @@
 ```
 ###### "dont look at my html" – `linuxfandudeguy`
 
-  | `💻`  i am currently working on **nothin**.<br/>`📦`  i love working with `javascript`.</br> |
+  | `💻`  i am currently working on **nothin**.<br/>`📦`  i love working with `javascript/html`.</br> |
   |:---|
 
 # `about me` 
