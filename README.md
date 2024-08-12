@@ -10,8 +10,12 @@
                                                               |___/       |___/ 
 ```
 ###### "dont look at my html" – `linuxfandudeguy`
-<img src="https://skillicons.dev/icons?i=html,js,react,vue,svelte,css,markdown,ts,nodejs,tailwind,py,debian" alt="web dev" height="40"/> 
+<img src="https://skillicons.dev/icons?i=html,js,react,vue,svelte,css,markdown,ts,nodejs,tailwind,py,debian,express,netlify," alt="web dev" height="40"/> 
 
 hi i am linuxfandudeguy/lelbois.
 
 i am an american programmer that makes stuff
+
+i HATE electron.
+
+
