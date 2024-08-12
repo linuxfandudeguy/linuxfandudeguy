@@ -12,7 +12,7 @@
 ###### "dont look at my html" – `linuxfandudeguy`
 
 hi i am linuxfandudeguy/lelbois.
-### `about me`
+# `about me` 
 
 i'm a developer that loves making websites, applications, and api endpoints using express.js. i spend time writing js code and fixing stuff to ensure smooth progress. i am familiar with recent frameworks like svelte, react, and vue, so i create interactive websites with ease. i like experimenting with new tools and technologies to make web apps that meet their purpose.
 
