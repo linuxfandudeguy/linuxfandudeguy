@@ -29,11 +29,6 @@ i'm a developer that loves making websites, applications, and api endpoints usin
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxfandudeguy&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   <img src="https://komarev.com/ghpvc/?username=linuxfandudeguy&style=for-the-badge&color=orange" alt=""/>
 
-# `counter`
+\
 
 
-<!-- Start of CuterCounter Code -->
-<!-- Start of CuterCounter Code -->
-<a href="https://www.cutercounter.com/" target="_blank"><img src="https://www.cutercounter.com/hits.php?id=hexpqqqn&nd=9&style=80" border="0" alt="counter for blog"></a>
-<!-- End of CuterCounter Code -->
-<!-- End of CuterCounter Code -->
