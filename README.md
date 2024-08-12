@@ -13,6 +13,7 @@
 
 hi i am linuxfandudeguy/lelbois.
 ### `about me`
+i am a developer specializing in express.js, focusing on building websites, apis, and various other web solutions. my expertise includes working with javascript, and i have also gained experience with modern frameworks such as svelte, react, and vue.
 
 ### `technologies`🛠
 | technologies i know | editors i use | toolz or stuff i use in my apps alot | technologies i hate |
