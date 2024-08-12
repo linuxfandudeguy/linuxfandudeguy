@@ -15,5 +15,5 @@ hi i am linuxfandudeguy/lelbois.
 
 | `>` **languages**  | `>` **text editors i use** | `>` **tools** |
   |:------------------:|:------------------------------:|:----------------------:|
-  | <img src="https://skillicons.dev/icons?i=html,js,react,vue,svelte,css,markdown,ts" alt="web dev" height="40"/> | <img src="https://skillicons.dev/icons?i=vscode,sublime" alt="web dev" height="40"/> | <img src="https://skillicons.dev/icons?i=bash,github,git" alt="web dev" height="40"/> |
+  | <img src="https://skillicons.dev/icons?i=html,js,react,vue,svelte,css,markdown,ts" alt="web dev" height="40"/> nano (no icon available) | <img src="https://skillicons.dev/icons?i=vscode,sublime" alt="web dev" height="40"/> | <img src="https://skillicons.dev/icons?i=bash,github,git" alt="web dev" height="40"/> |
   
