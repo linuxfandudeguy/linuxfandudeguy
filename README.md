@@ -12,8 +12,7 @@
 ###### "dont look at my html" – `linuxfandudeguy`
 
 hi i am linuxfandudeguy/lelbois.
-
-i am an american programmer that makes stuff
+### `about me`
 
 ### `technologies`🛠
 | technologies i know | editors i use | toolz or stuff i use in my apps alot | technologies i hate |
