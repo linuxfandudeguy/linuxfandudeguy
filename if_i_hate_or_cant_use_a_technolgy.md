@@ -1,6 +1,6 @@
 # `list of technologies I hate or can't use`
 
--  <img src="https://skillicons.dev/icons?i=electron" alt="web dev" height="40"/><p> Electron</p>
+-  <img src="https://skillicons.dev/icons?i=electron" alt="web dev" height="40"/><p>Electron</p>
 
 
 
