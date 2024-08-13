@@ -21,7 +21,7 @@ i'm a developer that loves making websites, applications, and api endpoints usin
 # `technologies`🛠
 | `>` technologies i know | `>` editors i use | `>` toolz or stuff i use in my apps alot | `>` technologies i hate |
 |---------------------|---------------|----------------------------------------|------------------------|
-| <img src="https://skillicons.dev/icons?i=html,js,react,vue,svelte,css,nodejs,python,rust" alt="web dev" height="40"/> | <img src="https://skillicons.dev/icons?i=sublime,vscode" alt="web dev" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/1024px-Gnu-nano.svg.png" alt="web dev" height="40"/><img src="assets/images/unammed.png" alt="web dev" height="40"/>| <img src="https://skillicons.dev/icons?i=tailwind,npm,git,github,babel,bootstrap,vercel,debian,bash,express" alt="web dev" height="40"/> | <img src="https://skillicons.dev/icons?i=electron,firebase,php" alt="web dev" height="40"/> |
+| <img src="https://skillicons.dev/icons?i=html,js,react,vue,svelte,css,nodejs,python,rust" alt="web dev" height="40"/> | <img src="https://skillicons.dev/icons?i=sublime,vscode" alt="web dev" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/1024px-Gnu-nano.svg.png" alt="web dev" height="40"/><img src="/assets/images/unnamed.png" alt="web dev" height="40"/>| <img src="https://skillicons.dev/icons?i=tailwind,npm,git,github,babel,bootstrap,vercel,debian,bash,express" alt="web dev" height="40"/> | <img src="https://skillicons.dev/icons?i=electron,firebase,php" alt="web dev" height="40"/> |
 
 # `stats` ⚡
   
