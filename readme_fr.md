@@ -7,7 +7,7 @@
  |_|_|_| |_|\__,_/_/\_\_|  \__,_|_| |_|\__,_|\__,_|\__,_|\___|\__, |\__,_|\__, |
                                                               |___/       |___/ 
 </pre>
-###### "ne regardez pas mon HTML" – `linuxfandudeguy`
+<h1>"ne regardez pas mon HTML" – `linuxfandudeguy`</h1>
 
   | `💻` Je travaille actuellement sur **rien**.<br/>`📦` J'aime travailler avec `javascript/html`.</br> |
   |:---|
