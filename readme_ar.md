@@ -1,5 +1,4 @@
 
-You said:
 <div align="center">
 <pre>
   _ _                   __                 _           _                        
