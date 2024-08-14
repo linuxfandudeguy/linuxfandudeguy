@@ -1,4 +1,4 @@
-# `Chinese Versions`
+# `中文版本`
 
 ## 简体中文 (Simplified Chinese)
 
