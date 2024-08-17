@@ -29,4 +29,8 @@ i'm a developer that loves making websites, applications, and api endpoints usin
   
   <a href="https://github.com/anuraghazra/github-readme-stats/tree/master?tab=readme-ov-file">![Github stats](https://github-readme-stats.vercel.app/api?username=linuxfandudeguy&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="https://github.com/anuraghazra/github-readme-stats/tree/master?tab=readme-ov-file">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxfandudeguy&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-  <img src="https://komarev.com/ghpvc/?username=linuxfandudeguy&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=linuxfandudeguy&style=for-the-badge&color=orange" alt="profile views"/>
+
+## `my most popular repositories`
+
+  <img src="https://popularrepostats.vercel.app/popular-repos?username=linuxfandudeguy" alt="most popular repositories"/>
