@@ -35,5 +35,5 @@ i'm a developer that loves making websites, applications, and api endpoints usin
 
   <img src="https://popularrepostats.vercel.app/popular-repos?username=linuxfandudeguy" alt="most popular repositories"/>
  
-                                                ^^
-###### This is not by anuraghazra, but rather something I made myself with the same design. See how I made it by clicking this link :3
+                                              
+> ###### This is not by anuraghazra, but rather something I made myself with the same design. See how I made it by clicking this link :3
