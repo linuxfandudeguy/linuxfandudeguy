@@ -34,3 +34,4 @@ i'm a developer that loves making websites, applications, and api endpoints usin
 ## `my most popular repositories`
 
   <img src="https://popularrepostats.vercel.app/popular-repos?username=linuxfandudeguy" alt="most popular repositories"/>
+^ This is not by anuraghazra, but rather something I made myself with a similar design.
