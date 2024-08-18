@@ -27,3 +27,10 @@ Ik ben een ontwikkelaar die het leuk vindt om websites, applicaties en API-eindp
   <a href="#">![GitHub-statistieken](https://github-readme-stats.vercel.app/api?username=linuxfandudeguy&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Talen](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxfandudeguy&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   <img src="https://komarev.com/ghpvc/?username=linuxfandudeguy&style=for-the-badge&color=orange" alt=""/>
+
+## `mijn populairste repositories`
+
+  <img src="https://popularrepostats.vercel.app/popular-repos?username=linuxfandudeguy" alt="populairste repositories"/>
+ 
+                                              
+> ###### Dit is niet van anuraghazra, maar iets dat ik zelf heb gemaakt met hetzelfde ontwerp. Zie hoe ik het heb gemaakt door op [deze link](https://github.com/linuxfandudeguy/top-repo-readme-stats/blob/master/README.md) te klikken :3
