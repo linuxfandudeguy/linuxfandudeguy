@@ -1,6 +1,6 @@
 # `中文版本`
 
-## 简体中文 (Simplified Chinese)
+## `简体中文 (Simplified Chinese)`
 
 <div align="center">
 <pre>
@@ -41,7 +41,7 @@
 
 ---
 
-## 繁體中文 (Traditional Chinese)
+## `繁體中文 (Traditional Chinese)`
 
 <div align="center">
 <pre>
