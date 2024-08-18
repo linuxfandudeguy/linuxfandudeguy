@@ -26,3 +26,11 @@ Je suis un développeur qui aime créer des sites Web, des applications et des p
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=linuxfandudeguy&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxfandudeguy&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   <img src="https://komarev.com/ghpvc/?username=linuxfandudeguy&style=for-the-badge&color=orange" alt=""/>
+
+
+## `mes dépôts les plus populaires`
+
+  <img src="https://popularrepostats.vercel.app/popular-repos?username=linuxfandudeguy" alt="dépôts les plus populaires"/>
+ 
+                                              
+> ###### Ceci n'est pas de anuraghazra, mais plutôt quelque chose que j'ai fait moi-même avec le même design. Découvrez comment je l'ai fait en cliquant sur [ce lien](https://github.com/linuxfandudeguy/top-repo-readme-stats/blob/master/README.md) :3
