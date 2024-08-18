@@ -29,3 +29,11 @@
   <a href="#">![주요 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxfandudeguy&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   <img src="https://komarev.com/ghpvc/?username=linuxfandudeguy&style=for-the-badge&color=orange" alt=""/>
 
+## `내 가장 인기 있는 저장소`
+
+  <img src="https://popularrepostats.vercel.app/popular-repos?username=linuxfandudeguy" alt="가장 인기 있는 저장소"/>
+ 
+                                              
+> ###### 이것은 anuraghazra의 것이 아니라 내가 같은 디자인으로 직접 만든 것입니다. [이 링크](https://github.com/linuxfandudeguy/top-repo-readme-stats/blob/master/README.md)를 클릭하여 내가 어떻게 만들었는지 확인하세요 :3
+
+
