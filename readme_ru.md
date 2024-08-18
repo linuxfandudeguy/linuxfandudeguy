@@ -27,3 +27,11 @@
   <a href="#">![GitHub статистика](https://github-readme-stats.vercel.app/api?username=linuxfandudeguy&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxfandudeguy&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   <img src="https://komarev.com/ghpvc/?username=linuxfandudeguy&style=for-the-badge&color=orange" alt=""/>
+
+
+## `мои самые популярные репозитории`
+
+  <img src="https://popularrepostats.vercel.app/popular-repos?username=linuxfandudeguy" alt="самые популярные репозитории"/>
+ 
+                                              
+> ###### Это не от anuraghazra, а что-то, что я сделал сам с тем же дизайном. Посмотрите, как я это сделал, кликнув по [этой ссылке](https://github.com/linuxfandudeguy/top-repo-readme-stats/blob/master/README.md) :3
