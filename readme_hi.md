@@ -27,3 +27,11 @@
   <a href="#">![GitHub आँकड़े](https://github-readme-stats.vercel.app/api?username=linuxfandudeguy&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![शीर्ष भाषाएँ](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxfandudeguy&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   <img src="https://komarev.com/ghpvc/?username=linuxfandudeguy&style=for-the-badge&color=orange" alt=""/>
+
+## `मेरे सबसे लोकप्रिय रिपॉजिटरी`
+
+  <img src="https://popularrepostats.vercel.app/popular-repos?username=linuxfandudeguy" alt="सबसे लोकप्रिय रिपॉजिटरी"/>
+ 
+                                              
+> ###### यह anuraghazra का नहीं है, बल्कि कुछ ऐसा है जो मैंने खुद उसी डिज़ाइन के साथ बनाया है। मैंने इसे कैसे बनाया, देखने के लिए [इस लिंक](https://github.com/linuxfandudeguy/top-repo-readme-stats/blob/master/README.md) पर क्लिक करें :3
+
