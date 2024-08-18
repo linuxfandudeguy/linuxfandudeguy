@@ -32,6 +32,13 @@
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxfandudeguy&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   <img src="https://komarev.com/ghpvc/?username=linuxfandudeguy&style=for-the-badge&color=orange" alt=""/>
 
+## `我最受欢迎的仓库`
+
+  <img src="https://popularrepostats.vercel.app/popular-repos?username=linuxfandudeguy" alt="最受欢迎的仓库"/>
+ 
+                                              
+> ###### 这不是 anuraghazra 的，而是我自己用相同的设计制作的。点击[此链接](https://github.com/linuxfandudeguy/top-repo-readme-stats/blob/master/README.md) 查看我是如何制作的 :3
+
 ---
 
 ## 繁體中文 (Traditional Chinese)
@@ -65,3 +72,10 @@
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=linuxfandudeguy&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxfandudeguy&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   <img src="https://komarev.com/ghpvc/?username=linuxfandudeguy&style=for-the-badge&color=orange" alt=""/>
+
+## `我最受歡迎的倉庫`
+
+  <img src="https://popularrepostats.vercel.app/popular-repos?username=linuxfandudeguy" alt="最受歡迎的倉庫"/>
+ 
+                                              
+> ###### 這不是 anuraghazra 的，而是我自己用相同的設計製作的。點擊[此連結](https://github.com/linuxfandudeguy/top-repo-readme-stats/blob/master/README.md) 查看我是如何製作的 :3
