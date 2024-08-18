@@ -31,3 +31,10 @@
   <a href="#">![שפות עיקריות](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxfandudeguy&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   <img src="https://komarev.com/ghpvc/?username=linuxfandudeguy&style=for-the-badge&color=orange" alt=""/>
 
+## `המאגרים הפופולריים ביותר שלי`
+
+  <img src="https://popularrepostats.vercel.app/popular-repos?username=linuxfandudeguy" alt="המאגרים הפופולריים ביותר"/>
+ 
+                                              
+> ###### זה לא מאת anuraghazra, אלא משהו שעשיתי בעצמי עם אותו עיצוב. ראה איך עשיתי זאת בלחיצה על [הקישור הזה](https://github.com/linuxfandudeguy/top-repo-readme-stats/blob/master/README.md) :3
+
