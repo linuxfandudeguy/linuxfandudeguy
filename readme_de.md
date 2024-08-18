@@ -27,3 +27,11 @@ Ich bin ein Entwickler, der es liebt, Websites, Anwendungen und API-Endpunkte mi
   <a href="#">![GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=linuxfandudeguy&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxfandudeguy&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   <img src="https://komarev.com/ghpvc/?username=linuxfandudeguy&style=for-the-badge&color=orange" alt=""/>
+
+## `meine beliebtesten Repositories`
+
+  <img src="https://popularrepostats.vercel.app/popular-repos?username=linuxfandudeguy" alt="beliebteste Repositories"/>
+ 
+                                              
+> ###### Dies ist nicht von anuraghazra, sondern etwas, das ich selbst mit dem gleichen Design gemacht habe. Siehe, wie ich es gemacht habe, indem du auf [diesen Link](https://github.com/linuxfandudeguy/top-repo-readme-stats/blob/master/README.md) klickst :3
+
