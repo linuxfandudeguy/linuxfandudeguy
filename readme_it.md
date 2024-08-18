@@ -29,3 +29,10 @@ Sono uno sviluppatore che ama creare siti web, applicazioni e endpoint API usand
   <a href="#">![Linguaggi Principali](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxfandudeguy&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   <img src="https://komarev.com/ghpvc/?username=linuxfandudeguy&style=for-the-badge&color=orange" alt=""/>
 
+## `i miei repository più popolari`
+
+  <img src="https://popularrepostats.vercel.app/popular-repos?username=linuxfandudeguy" alt="repository più popolari"/>
+ 
+                                              
+> ###### Questo non è di anuraghazra, ma piuttosto qualcosa che ho fatto io stesso con lo stesso design. Vedi come l'ho fatto cliccando [questo link](https://github.com/linuxfandudeguy/top-repo-readme-stats/blob/master/README.md) :3
+
