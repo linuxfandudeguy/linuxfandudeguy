@@ -9,11 +9,11 @@
  |_|_|_| |_|\__,_/_/\_\_|  \__,_|_| |_|\__,_|\__,_|\__,_|\___|\__, |\__,_|\__, |
                                                               |___/       |___/ 
 ```
-###### [English](README.md) | [Español](readme_es.md) | [Français](readme_fr.md) | [Italiano](readme_it.md) | [Deutsch](readme_de.md) | [Nederlands](readme_nl.md) | [한국어](readme_ko.md) |  [हिन्दी](readme_hi.md) | [简体中文 / 繁體中文](readme_zh.md) | [العربية](readme_ar.md) | [עִבְרִית](readme_he.md) | [日本語](readme_jp.md)
+
 
 ###### "dont look at my html" – `linuxfandudeguy`
 
-  | `💻`  i am currently working on **nothin**.<br/>`📦`  i love working with `javascript/html`.</br> |
+  | `💻`  i am currently working on **russo.js**.<br/>`📦`  i love working with `javascript/html`.</br> |
   |:---|
 
 # `about me` 
