@@ -13,7 +13,7 @@
 
 ###### "dont look at my html" – `linuxfandudeguy`
 
-  | `💻`  i am currently working on **bakaos**.<br/>`📦`  i love working with `javascript/html`.</br> |
+  | `💻`  i am currently working on **melonsoda**.<br/>`📦`  i love working with `javascript/html`.</br> |
   |:---|
 
 # `about me` 
